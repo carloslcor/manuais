@@ -1,6 +1,7 @@
 📷 Demonstração
 
 cadastro addDevice dashboard config.png perfil.png
+
 🚀 Sobre o App
 
 Esse App usa o conceito de IOT, onde controla diversos dispositivos físicos(hardwares) que tenham comunicação com internet
