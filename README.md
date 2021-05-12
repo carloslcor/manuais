@@ -1,5 +1,16 @@
 📷 Demonstração
 
+## :camera: Demonstração
+<div>
+<h1 align="center"> 
+  <img width="200" height="430" alt="cadastro" src="https://github.com/Samuel-Rodrigues/freedom-hub/blob/master/prints/cadastro.png"/>  
+  <img width="200" height="430" alt="addDevice" src="https://github.com/Samuel-Rodrigues/freedom-hub/blob/master/prints/addDevice.png"/>
+    <img width="200" height="430" alt="dashboard" src="https://github.com/Samuel-Rodrigues/freedom-hub/blob/master/prints/dashboard.png"/>  
+<img width="200" height="430" alt="config.png" src="https://github.com/Samuel-Rodrigues/freedom-hub/blob/master/prints/config.png"/>
+    <img width="200" height="430" alt="perfil.png" src="https://github.com/Samuel-Rodrigues/freedom-hub/blob/master/prints/perfil.png"/>    
+</h1>
+</div>
+
 cadastro addDevice dashboard config.png perfil.png
 
 🚀 Sobre o App
